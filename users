@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "age": 28,
+      "gender": "male",
+      "email": "john.doe@example.com",
+      "phone": "+1-555-0101",
+      "city": "New York",
+      "country": "USA"
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "age": 32,
+      "gender": "female",
+      "email": "jane.smith@example.com",
+      "phone": "+1-555-0102",
+      "city": "Chicago",
+      "country": "USA"
+    },
+    {
+      "id": 3,
+      "firstName": "Rahul",
+      "lastName": "Sharma",
+      "age": 27,
+      "gender": "male",
+      "email": "rahul.sharma@example.com",
+      "phone": "+91-9876543210",
+      "city": "Pune",
+      "country": "India"
+    },
+    {
+      "id": 4,
+      "firstName": "Priya",
+      "lastName": "Patil",
+      "age": 29,
+      "gender": "female",
+      "email": "priya.patil@example.com",
+      "phone": "+91-9876543211",
+      "city": "Mumbai",
+      "country": "India"
+    },
+    {
+      "id": 5,
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "age": 35,
+      "gender": "male",
+      "email": "michael.brown@example.com",
+      "phone": "+1-555-0105",
+      "city": "Boston",
+      "country": "USA"
+    },
+    {
+      "id": 6,
+      "firstName": "Sneha",
+      "lastName": "Kulkarni",
+      "age": 26,
+      "gender": "female",
+      "email": "sneha.kulkarni@example.com",
+      "phone": "+91-9876543212",
+      "city": "Bangalore",
+      "country": "India"
+    },
+    {
+      "id": 7,
+      "firstName": "David",
+      "lastName": "Wilson",
+      "age": 31,
+      "gender": "male",
+      "email": "david.wilson@example.com",
+      "phone": "+1-555-0107",
+      "city": "Seattle",
+      "country": "USA"
+    },
+    {
+      "id": 8,
+      "firstName": "Emily",
+      "lastName": "Johnson",
+      "age": 30,
+      "gender": "female",
+      "email": "emily.johnson@example.com",
+      "phone": "+1-555-0108",
+      "city": "Denver",
+      "country": "USA"
+    }
+  ]
+}
